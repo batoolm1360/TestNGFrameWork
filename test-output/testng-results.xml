@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41965" started-at="2019-06-02T16:47:33Z" finished-at="2019-06-02T16:48:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41965" started-at="2019-06-02T16:47:33Z" finished-at="2019-06-02T16:48:15Z">
+      <class name="FrameWork.TestNG.Practice2">
+        <test-method status="PASS" signature="setEnviroment()[pri:0, instance:FrameWork.TestNG.Practice2@4667ae56]" name="setEnviroment" is-config="true" duration-ms="6037" started-at="2019-06-02T16:47:33Z" finished-at="2019-06-02T16:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnviroment -->
+        <test-method status="PASS" signature="shoppingCartTest()[pri:1, instance:FrameWork.TestNG.Practice2@4667ae56]" name="shoppingCartTest" duration-ms="2438" started-at="2019-06-02T16:47:39Z" finished-at="2019-06-02T16:47:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingCartTest -->
+        <test-method status="PASS" signature="closeTheEnviroment()[pri:0, instance:FrameWork.TestNG.Practice2@4667ae56]" name="closeTheEnviroment" is-config="true" duration-ms="968" started-at="2019-06-02T16:47:42Z" finished-at="2019-06-02T16:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheEnviroment -->
+        <test-method status="PASS" signature="setEnviroment()[pri:0, instance:FrameWork.TestNG.Practice2@4667ae56]" name="setEnviroment" is-config="true" duration-ms="3596" started-at="2019-06-02T16:47:43Z" finished-at="2019-06-02T16:47:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnviroment -->
+        <test-method status="PASS" signature="loginScenario1()[pri:2, instance:FrameWork.TestNG.Practice2@4667ae56]" name="loginScenario1" duration-ms="3376" started-at="2019-06-02T16:47:46Z" finished-at="2019-06-02T16:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginScenario1 -->
+        <test-method status="PASS" signature="closeTheEnviroment()[pri:0, instance:FrameWork.TestNG.Practice2@4667ae56]" name="closeTheEnviroment" is-config="true" duration-ms="1726" started-at="2019-06-02T16:47:50Z" finished-at="2019-06-02T16:47:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheEnviroment -->
+        <test-method status="PASS" signature="setEnviroment()[pri:0, instance:FrameWork.TestNG.Practice2@4667ae56]" name="setEnviroment" is-config="true" duration-ms="4142" started-at="2019-06-02T16:47:51Z" finished-at="2019-06-02T16:47:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnviroment -->
+        <test-method status="PASS" signature="loginScenario2()[pri:3, instance:FrameWork.TestNG.Practice2@4667ae56]" name="loginScenario2" duration-ms="3439" started-at="2019-06-02T16:47:55Z" finished-at="2019-06-02T16:47:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginScenario2 -->
+        <test-method status="PASS" signature="closeTheEnviroment()[pri:0, instance:FrameWork.TestNG.Practice2@4667ae56]" name="closeTheEnviroment" is-config="true" duration-ms="782" started-at="2019-06-02T16:47:59Z" finished-at="2019-06-02T16:48:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheEnviroment -->
+        <test-method status="PASS" signature="setEnviroment()[pri:0, instance:FrameWork.TestNG.Practice2@4667ae56]" name="setEnviroment" is-config="true" duration-ms="3599" started-at="2019-06-02T16:48:00Z" finished-at="2019-06-02T16:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnviroment -->
+        <test-method status="PASS" signature="loginScenario3()[pri:4, instance:FrameWork.TestNG.Practice2@4667ae56]" name="loginScenario3" duration-ms="3335" started-at="2019-06-02T16:48:03Z" finished-at="2019-06-02T16:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginScenario3 -->
+        <test-method status="PASS" signature="closeTheEnviroment()[pri:0, instance:FrameWork.TestNG.Practice2@4667ae56]" name="closeTheEnviroment" is-config="true" duration-ms="789" started-at="2019-06-02T16:48:07Z" finished-at="2019-06-02T16:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheEnviroment -->
+        <test-method status="PASS" signature="setEnviroment()[pri:0, instance:FrameWork.TestNG.Practice2@4667ae56]" name="setEnviroment" is-config="true" duration-ms="3535" started-at="2019-06-02T16:48:07Z" finished-at="2019-06-02T16:48:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnviroment -->
+        <test-method status="PASS" signature="loginScenario4()[pri:5, instance:FrameWork.TestNG.Practice2@4667ae56]" name="loginScenario4" duration-ms="3285" started-at="2019-06-02T16:48:11Z" finished-at="2019-06-02T16:48:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginScenario4 -->
+        <test-method status="PASS" signature="closeTheEnviroment()[pri:0, instance:FrameWork.TestNG.Practice2@4667ae56]" name="closeTheEnviroment" is-config="true" duration-ms="837" started-at="2019-06-02T16:48:14Z" finished-at="2019-06-02T16:48:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheEnviroment -->
+      </class> <!-- FrameWork.TestNG.Practice2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
